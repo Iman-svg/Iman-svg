@@ -1,5 +1,12 @@
 # 💫 About Me:
-## 👋 About Me<br><br>🎓 Computer Science student passionate about building software that solves real-world problems.<br><br>🔭 Currently working on personal projects to strengthen my portfolio.<br><br>🌱 Learning JavaScript, Flutter, and modern web development.<br><br>🤝 Open to collaborating on meaningful projects and hackathons.<br><br>💼 Looking for internship opportunities where I can grow as a software engineer.<br><br>💬 Ask me about Python ,c++, HTML/CSS, beginner web development, Data structure,or university life.<br><br>⚡ Fun fact: Every project I build teaches me something new—and that's my favorite part of coding.
+## 👋 About Me<br><br>🎓 Computer Science student passionate about building software that solves real-world problems.<br><br>🔭 Currently working on personal projects to strengthen my portfolio.<br><br>🌱 Learning JavaScript, Flutter, and modern web development.<br><br>🤝 Open to collaborating on meaningful projects and hackathons.<br><br>💼 Looking for internship opportunities where I can grow as a software engineer. ### myPAI — Personal AI Generator
+Participated in the Nebius × NVIDIA Global AI Hackathon 2026.
+
+A desktop application that lets users generate a personalized private AI coworker that lives on their PC.
+
+**Technologies:** Add the technologies you actually worked with here.
+
+[View Project on GitHub]https://github.com/5star55/myPAI.git<br><br>💬 Ask me about Python ,c++, HTML/CSS, beginner web development, Data structure,or university life.<br><br>⚡ Fun fact: Every project I build teaches me something new—and that's my favorite part of coding.
 
 
 ## 🌐 Socials:
